@@ -16,3 +16,8 @@ Steps:
 5. Change the image path in face_recognition.py
 6. Go to that location in command line using command "cd path_of_folder"
 7. Execute the module using "python face_recognition.py"
+
+
+Quick reference:
+
+To create a new directory, click add files and select create a file and type the folder name followed by a / and type a sample file name, commit changes and then click add files and upload all the files you were about to upload.. and then delete the sample file.
